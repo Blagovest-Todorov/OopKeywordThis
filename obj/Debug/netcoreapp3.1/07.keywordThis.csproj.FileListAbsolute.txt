@@ -1,0 +1,12 @@
+C:\Users\Bla\source\repos\OOP\07.keywordThis\bin\Debug\netcoreapp3.1\07.keywordThis.exe
+C:\Users\Bla\source\repos\OOP\07.keywordThis\bin\Debug\netcoreapp3.1\07.keywordThis.deps.json
+C:\Users\Bla\source\repos\OOP\07.keywordThis\bin\Debug\netcoreapp3.1\07.keywordThis.runtimeconfig.json
+C:\Users\Bla\source\repos\OOP\07.keywordThis\bin\Debug\netcoreapp3.1\07.keywordThis.runtimeconfig.dev.json
+C:\Users\Bla\source\repos\OOP\07.keywordThis\bin\Debug\netcoreapp3.1\07.keywordThis.dll
+C:\Users\Bla\source\repos\OOP\07.keywordThis\bin\Debug\netcoreapp3.1\07.keywordThis.pdb
+C:\Users\Bla\source\repos\OOP\07.keywordThis\obj\Debug\netcoreapp3.1\07.keywordThis.AssemblyInfoInputs.cache
+C:\Users\Bla\source\repos\OOP\07.keywordThis\obj\Debug\netcoreapp3.1\07.keywordThis.AssemblyInfo.cs
+C:\Users\Bla\source\repos\OOP\07.keywordThis\obj\Debug\netcoreapp3.1\07.keywordThis.csproj.CoreCompileInputs.cache
+C:\Users\Bla\source\repos\OOP\07.keywordThis\obj\Debug\netcoreapp3.1\07.keywordThis.dll
+C:\Users\Bla\source\repos\OOP\07.keywordThis\obj\Debug\netcoreapp3.1\07.keywordThis.pdb
+C:\Users\Bla\source\repos\OOP\07.keywordThis\obj\Debug\netcoreapp3.1\07.keywordThis.genruntimeconfig.cache
